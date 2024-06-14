@@ -1,3 +1,25 @@
 body {
-    background-color: rgb(245, 19, 245);
+    background-color:  #f8e8a6;
 }
+h1 {
+    text-align: center;
+}
+.logo {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+    
+}
+p {
+    text-align: center;
+  }
+footer {
+    text-align: center;
+  }
+  
+  footer a {
+    margin: 0 10px;
+    color: green;
+  }
+ 
